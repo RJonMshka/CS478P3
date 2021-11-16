@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="per_label">Attraction and Restaurants Access Permission</string>
+    <string name="per_desc">Allow Access to Attractions and Permissions</string>
+    <string name="attraction_text">Click the "Attractions" Button to access Chicago\'s Top 8 Tourist Attractions.</string>
+    <string name="restaurant_text">Click the "Restaurants" Button to access Chicago\'s Top 6 Restaurants.</string>
+    <string name="attraction_button_text">Attractions</string>
+    <string name="restaurant_button_text">Restaurants</string>
+    <string name="toast_msg">Broadcast Successful. Open Project3App2 Application to access the results for this selection.</string>
+    <string name="not_granted_msg">Permission denied. You have to allow this permission and then restart the application in order for this application to fully function.</string>
+</resources>
